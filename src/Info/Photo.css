@@ -1,0 +1,9 @@
+.Photo{
+    font-family: 'FontAwesome';
+}
+.img
+{
+    float: left;
+    border: 2px double red;
+    border-radius: 10px;
+}
